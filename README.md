@@ -1,10 +1,7 @@
-# Controle_Servo_Labrador
+# Controle de Servomotor na SBC Labrador
 Repósitorio com código utilizado para controle de um servo motor SG90 pela SBC Labrador
 
 ## Descrição geral do Funcionamento do programa 
-O projeto consiste em um sistema microcontrolado para o controle preciso da velocidade de agitação de um motor, projetado para ser utilizado em um reator químico de pequena escala. O sistema permite ao operador ajustar a velocidade de mistura de forma incremental, garantindo a homogeneidade dos reagentes e o controle sobre as taxas de reação, processos fundamentais em experimentos químicos.
-
-## Descrição detalhada do Funcionamento do programa  na BitDogLab
 O programa foi desenvolvido em linguagem C para ser executado em uma placa SBC Labrador com sistema Linux. Seu principal objetivo é controlar o movimento de um servomotor e, ao mesmo tempo, usar dois LEDs como indicadores visuais da posição angular desse motor.
 
 O funcionamento pode ser dividido nos seguintes passos:
